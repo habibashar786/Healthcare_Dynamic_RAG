@@ -1,0 +1,31 @@
+procedure_id,specialty,procedure_name,icd10_code,cpt_code,base_cost,urgency_level
+PROC_00001,Internal Medicine,Office Visit - New Patient,Z00.00,40782,150,Emergency
+PROC_00002,Internal Medicine,Office Visit - Follow Up,Z00.01,25071,100,Emergency
+PROC_00003,Internal Medicine,Annual Physical Exam,Z00.00,15923,250,Emergency
+PROC_00004,Internal Medicine,Diabetes Management,E11.9,15578,200,Urgent
+PROC_00005,Internal Medicine,Hypertension Management,I10,68891,180,Routine
+PROC_00006,Cardiology,ECG/EKG,R94.31,59667,150,Routine
+PROC_00007,Cardiology,Echocardiogram,R93.1,65144,500,Routine
+PROC_00008,Cardiology,Stress Test,R94.39,11925,800,Routine
+PROC_00009,Cardiology,Cardiac Catheterization,Z95.5,71916,3000,Urgent
+PROC_00010,Cardiology,Pacemaker Check,Z45.010,96708,200,Emergency
+PROC_00011,Urology,Cystoscopy,R31.9,38281,800,Routine
+PROC_00012,Urology,Kidney Stone Treatment,N20.0,38913,2500,Routine
+PROC_00013,Urology,Prostate Exam,N40.0,53497,200,Emergency
+PROC_00014,Urology,UTI Treatment,N39.0,40626,150,Urgent
+PROC_00015,Urology,Vasectomy,Z30.2,53382,1500,Emergency
+PROC_00016,Pediatrics,Well Child Visit,Z00.129,79426,150,Emergency
+PROC_00017,Pediatrics,Vaccination,Z23,76259,100,Routine
+PROC_00018,Pediatrics,Developmental Assessment,R62.50,43082,300,Emergency
+PROC_00019,Pediatrics,Sick Visit,R50.9,99847,120,Urgent
+PROC_00020,Pediatrics,School Physical,Z02.0,46356,100,Urgent
+PROC_00021,OB/GYN,Prenatal Visit,Z34.90,26220,200,Routine
+PROC_00022,OB/GYN,Ultrasound,Z36.9,19239,400,Routine
+PROC_00023,OB/GYN,Delivery - Normal,O80,89945,5000,Urgent
+PROC_00024,OB/GYN,Delivery - C-Section,O82,69666,8000,Routine
+PROC_00025,OB/GYN,Annual Exam,Z01.419,59910,250,Emergency
+PROC_00026,Emergency,Level 1 - Minor,R07.9,52267,500,Routine
+PROC_00027,Emergency,Level 2 - Low,R06.02,22919,800,Urgent
+PROC_00028,Emergency,Level 3 - Moderate,R50.9,68590,1500,Urgent
+PROC_00029,Emergency,Level 4 - High,R57.0,60725,3000,Routine
+PROC_00030,Emergency,Level 5 - Critical,R57.8,69130,5000,Urgent

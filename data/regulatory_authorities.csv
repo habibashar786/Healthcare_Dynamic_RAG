@@ -1,0 +1,8 @@
+authority_id,authority_name,country,regulations,effective_date,last_updated
+HIPAA,Health Insurance Portability and Accountability Act,USA,"{'data_privacy': 'REQUIRED', 'encryption': 'AES-256', 'audit_trail': 'MANDATORY', 'retention_years': 5, 'breach_notification_hours': 72}",2024-01-01,2025-09-02
+CCHI,Council of Cooperative Health Insurance,Saudi Arabia,"{'data_privacy': 'REQUIRED', 'encryption': 'AES-256', 'audit_trail': 'MANDATORY', 'retention_years': 7, 'breach_notification_hours': 72}",2024-01-01,2025-09-02
+DOH_UAE,Department of Health - UAE,UAE,"{'data_privacy': 'REQUIRED', 'encryption': 'AES-256', 'audit_trail': 'MANDATORY', 'retention_years': 10, 'breach_notification_hours': 48}",2024-01-01,2025-09-02
+DOH_QATAR,Department of Health - Qatar,Qatar,"{'data_privacy': 'REQUIRED', 'encryption': 'AES-256', 'audit_trail': 'MANDATORY', 'retention_years': 7, 'breach_notification_hours': 72}",2024-01-01,2025-09-02
+MOH_KUWAIT,Ministry of Health - Kuwait,Kuwait,"{'data_privacy': 'REQUIRED', 'encryption': 'AES-256', 'audit_trail': 'MANDATORY', 'retention_years': 10, 'breach_notification_hours': 48}",2024-01-01,2025-09-02
+MOH_BAHRAIN,Ministry of Health - Bahrain,Bahrain,"{'data_privacy': 'REQUIRED', 'encryption': 'AES-256', 'audit_trail': 'MANDATORY', 'retention_years': 5, 'breach_notification_hours': 72}",2024-01-01,2025-09-02
+MOH_OMAN,Ministry of Health - Oman,Oman,"{'data_privacy': 'REQUIRED', 'encryption': 'AES-256', 'audit_trail': 'MANDATORY', 'retention_years': 5, 'breach_notification_hours': 48}",2024-01-01,2025-09-02
